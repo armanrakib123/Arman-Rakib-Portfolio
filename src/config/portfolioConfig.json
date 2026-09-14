@@ -1,0 +1,816 @@
+{
+  "developer": {
+    "name": "Arman Rakib",
+    "firstName": "Arman",
+    "lastName": "Rakib",
+    "initials": "AR",
+    "role": "Software Engineer ",
+    "title": "Full Stack Engineer & System Designer",
+    "experienceYears": "1+",
+    "email": "armanrakib61@gmail.com",
+    "phone": "+880 172788832",
+    "whatsapp": "+880 172788832",
+    "location": "Mirpur, Dhaka, Bangladesh",
+    "github": "https://github.com/armanrakib123",
+    "linkedin": "https://www.linkedin.com/in/arman-rakib-9b4792317/",
+    "instagram": "https://www.instagram.com/armanrakib83/",
+    "facebook": "https://www.facebook.com/arman.rakib.657052"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "href": "#hero"
+    },
+    {
+      "name": "About",
+      "href": "#about"
+    },
+    {
+      "name": "Skills",
+      "href": "#skills"
+    },
+    {
+      "name": "Experience",
+      "href": "#experience"
+    },
+    {
+      "name": "Projects",
+      "href": "#projects"
+    },
+    {
+      "name": "Reviews",
+      "href": "#reviews"
+    },
+    {
+      "name": "Analytics",
+      "href": "#analytics"
+    },
+    {
+      "name": "Education",
+      "href": "#education"
+    },
+    {
+      "name": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "availabilityBadge": "Available for new opportunities",
+    "tagline": "I specialize in full-stack and backend development, with strong foundations in Java, JavaScript, TypeScript, Python, and modern backend frameworks. I enjoy solving complex problems through Data Structures & Algorithms, clean architecture, system design, and efficient engineering practices.",
+    "stats": [
+      {
+        "value": "1+",
+        "label": "Years Exp."
+      },
+      {
+        "value": "5+",
+        "label": "Projects"
+      },
+      {
+        "value": "20+",
+        "label": "Skills"
+      }
+    ],
+    "floatingBadges": [
+      {
+        "label": "React & Next.js",
+        "color": "from-cyan-500/20 to-blue-500/20",
+        "border": "border-cyan-400/30",
+        "text": "text-cyan-700 dark:text-cyan-300",
+        "top": "top-6",
+        "left": "-left-2",
+        "delay": 0
+      },
+      {
+        "label": "Problem Solving",
+        "color": "from-blue-500/20 to-indigo-500/20",
+        "border": "border-blue-400/30",
+        "text": "text-blue-700 dark:text-blue-300",
+        "top": "top-20",
+        "left": "right-0",
+        "delay": 1
+      },
+      {
+        "label": "System Design",
+        "color": "from-pink-500/20 to-rose-500/20",
+        "border": "border-pink-400/30",
+        "text": "text-pink-700 dark:text-pink-300",
+        "top": "bottom-20",
+        "left": "-left-4",
+        "delay": 2
+      },
+      {
+        "label": "Spring Boot & Laravel",
+        "color": "from-teal-500/20 to-green-500/20",
+        "border": "border-teal-400/30",
+        "text": "text-teal-700 dark:text-teal-300",
+        "top": "bottom-8",
+        "left": "right-0",
+        "delay": 0.5
+      }
+    ],
+    "techStreams": [
+      {
+        "name": "Next.js 16 & React",
+        "tag": "Frontend Framework",
+        "speed": "99/100 Lighthouse",
+        "color": "from-cyan-500 to-blue-600"
+      },
+      {
+        "name": "Spring Boot, Laravel & Nestjs",
+        "tag": "Backend APIs",
+        "speed": "42ms Latency",
+        "color": "from-emerald-500 to-teal-600"
+      },
+      {
+        "name": "PostgreSQL, MySQL & MongoDB",
+        "tag": "Databases & Storage",
+        "speed": "Multi-Tenant RBAC",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "name": "Algorithmic Problem Solving",
+        "tag": "DSA & Algorithms",
+        "speed": "Optimal Complexity",
+        "color": "from-cyan-500 to-blue-600"
+      },
+      {
+        "name": "Scalable System Design",
+        "tag": "Software Architecture",
+        "speed": "High Availability",
+        "color": "from-blue-500 to-cyan-600"
+      }
+    ]
+  },
+  "about": {
+    "bioParagraphs": [
+      "I am a Computer Science and Engineering student passionate about building scalable, reliable, and high-performance software systems. I specialize in full-stack and backend development, with strong foundations in Java, JavaScript, TypeScript, Python, and modern backend frameworks. I enjoy solving complex problems through Data Structures & Algorithms, clean architecture, system design, and efficient engineering practices."
+    ],
+    "traits": [
+      "Problem Solver",
+      "Full-Stack Engineer",
+      "System Designer",
+      "Open Source Contributor"
+    ],
+    "focusAreas": [
+      {
+        "label": "Scalable System Design",
+        "icon": "Cpu",
+        "color": "text-purple-500 bg-purple-500/10 border-purple-500/20"
+      },
+      {
+        "label": "Backend & API Engineering",
+        "icon": "Layers",
+        "color": "text-blue-500 bg-blue-500/10 border-blue-500/20"
+      },
+      {
+        "label": "Distributed Systems",
+        "icon": "Database",
+        "color": "text-emerald-500 bg-emerald-500/10 border-emerald-500/20"
+      },
+      {
+        "label": "Algorithms & Problem Solving",
+        "icon": "Terminal",
+        "color": "text-amber-500 bg-amber-500/10 border-amber-500/20"
+      }
+    ]
+  },
+  "skills": {
+    "marquee": [
+      {
+        "name": "React.js",
+        "icon": "FaReact",
+        "color": "#61DAFB"
+      },
+      {
+        "name": "Next.js 16",
+        "icon": "SiNextdotjs",
+        "color": "text-slate-900 dark:text-white"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "SiTypescript",
+        "color": "#3178C6"
+      },
+      {
+        "name": "Python",
+        "icon": "FaPython",
+        "color": "#3776AB"
+      },
+      {
+        "name": "Node.js",
+        "icon": "FaNodeJs",
+        "color": "#339933"
+      },
+      {
+        "name": "Java",
+        "icon": "FaJava",
+        "color": "#007396"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "SiSpringboot",
+        "color": "#6DB33F"
+      },
+      {
+        "name": "Laravel",
+        "icon": "SiLaravel",
+        "color": "#FF2D20"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "SiPostgresql",
+        "color": "#4169E1"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "SiMongodb",
+        "color": "#47A248"
+      },
+      {
+        "name": "AI Agents",
+        "icon": "FaRobot",
+        "color": "text-purple-500"
+      },
+      {
+        "name": "Git & GitHub",
+        "icon": "FaGitAlt",
+        "color": "#F05032"
+      }
+    ],
+    "categories": [
+      {
+        "title": "Programming Languages",
+        "icon": "Code2",
+        "iconColor": "text-blue-500",
+        "accent": "from-blue-500/15 to-cyan-500/10",
+        "border": "border-blue-500/30 dark:border-blue-500/25",
+        "skills": [
+          {
+            "name": "Java",
+            "icon": "FaJava",
+            "color": "#007396"
+          },
+          {
+            "name": "C++",
+            "icon": "SiCplusplus",
+            "color": "#00599C"
+          },
+          {
+            "name": "Python",
+            "icon": "FaPython",
+            "color": "#3776AB"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "SiTypescript",
+            "color": "#3178C6"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "SiJavascript",
+            "color": "#F7DF1E"
+          },
+          {
+            "name": "PHP",
+            "icon": "SiPhp",
+            "color": "#777BB4"
+          },
+          {
+            "name": "Go",
+            "icon": "SiGo",
+            "color": "#00ADD8"
+          }
+        ]
+      },
+      {
+        "title": "Frontend",
+        "icon": "Layout",
+        "iconColor": "text-blue-500",
+        "accent": "from-blue-500/15 to-cyan-500/10",
+        "border": "border-blue-500/30 dark:border-blue-500/25",
+        "skills": [
+          {
+            "name": "React.js",
+            "icon": "FaReact",
+            "color": "#61DAFB"
+          },
+          {
+            "name": "Next.js",
+            "icon": "SiNextdotjs",
+            "color": "text-slate-900 dark:text-white"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "SiTypescript",
+            "color": "#3178C6"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "SiJavascript",
+            "color": "#F7DF1E"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "SiTailwindcss",
+            "color": "#06B6D4"
+          },
+          {
+            "name": "HTML5",
+            "icon": "FaHtml5",
+            "color": "#E34F26"
+          },
+          {
+            "name": "CSS3",
+            "icon": "FaCss3Alt",
+            "color": "#1572B6"
+          }
+        ]
+      },
+      {
+        "title": "Backend & Systems",
+        "icon": "Server",
+        "iconColor": "text-emerald-500",
+        "accent": "from-emerald-500/15 to-green-500/10",
+        "border": "border-emerald-500/30 dark:border-emerald-500/25",
+        "skills": [
+          {
+            "name": "Spring Boot",
+            "icon": "SiSpringboot",
+            "color": "#6DB33F"
+          },
+          {
+            "name": "Node.js",
+            "icon": "FaNodeJs",
+            "color": "#339933"
+          },
+          {
+            "name": "NestJS",
+            "icon": "SiNestjs",
+            "color": "#E0234E"
+          },
+          {
+            "name": "Django",
+            "icon": "SiDjango",
+            "color": "#092E20"
+          },
+          {
+            "name": "FastAPI",
+            "icon": "SiFastapi",
+            "color": "#009688"
+          },
+          {
+            "name": "Laravel",
+            "icon": "SiLaravel",
+            "color": "#FF2D20"
+          },
+          {
+            "name": "RESTful APIs",
+            "icon": "TbApi",
+            "color": "text-purple-400"
+          },
+          {
+            "name": "WebSockets",
+            "icon": "TbPlugConnected",
+            "color": "text-cyan-400"
+          },
+          {
+            "name": "Authentication & RBAC",
+            "icon": "FaShieldAlt",
+            "color": "text-emerald-400"
+          },
+          {
+            "name": "Microservices",
+            "icon": "BiNetworkChart",
+            "color": "text-teal-400"
+          }
+        ]
+      },
+      {
+        "title": "Databases & Caching",
+        "icon": "Database",
+        "iconColor": "text-amber-500",
+        "accent": "from-amber-500/15 to-yellow-500/10",
+        "border": "border-amber-500/30 dark:border-amber-500/25",
+        "skills": [
+          {
+            "name": "PostgreSQL",
+            "icon": "SiPostgresql",
+            "color": "#4169E1"
+          },
+          {
+            "name": "MySQL",
+            "icon": "SiMysql",
+            "color": "#4479A1"
+          },
+          {
+            "name": "MongoDB",
+            "icon": "SiMongodb",
+            "color": "#47A248"
+          },
+          {
+            "name": "Redis",
+            "icon": "SiRedis",
+            "color": "#DC382D"
+          },
+          {
+            "name": "Prisma",
+            "icon": "SiPrisma",
+            "color": "text-slate-900 dark:text-white"
+          },
+          {
+            "name": "Hibernate / JPA",
+            "icon": "SiHibernate",
+            "color": "#59666C"
+          },
+          {
+            "name": "Database Design",
+            "icon": "Database",
+            "color": "text-amber-400"
+          }
+        ]
+      },
+      {
+        "title": "CS & Software Engineering",
+        "icon": "Cpu",
+        "iconColor": "text-purple-500",
+        "accent": "from-purple-500/15 to-violet-500/10",
+        "border": "border-purple-500/30 dark:border-purple-500/25",
+        "skills": [
+          {
+            "name": "Data Structures & Algorithms",
+            "icon": "BiCodeAlt",
+            "color": "text-purple-400"
+          },
+          {
+            "name": "Object-Oriented Programming",
+            "icon": "TbBrandCpp",
+            "color": "text-blue-400"
+          },
+          {
+            "name": "System Design",
+            "icon": "BiNetworkChart",
+            "color": "text-teal-400"
+          },
+          {
+            "name": "Distributed Systems",
+            "icon": "BiGitBranch",
+            "color": "text-cyan-400"
+          },
+          {
+            "name": "Software Architecture",
+            "icon": "BiLayer",
+            "color": "text-indigo-400"
+          },
+          {
+            "name": "Design Patterns",
+            "icon": "TbComponents",
+            "color": "text-pink-400"
+          },
+          {
+            "name": "Performance Optimization",
+            "icon": "TbGauge",
+            "color": "text-orange-400"
+          },
+          {
+            "name": "Testing & Debugging",
+            "icon": "TbBug",
+            "color": "text-red-400"
+          }
+        ]
+      },
+      {
+        "title": "Cloud, DevOps & Tools",
+        "icon": "Wrench",
+        "iconColor": "text-orange-500",
+        "accent": "from-orange-500/15 to-red-500/10",
+        "border": "border-orange-500/30 dark:border-orange-500/25",
+        "skills": [
+          {
+            "name": "AWS",
+            "icon": "FaAws",
+            "color": "#FF9900"
+          },
+          {
+            "name": "Docker",
+            "icon": "FaDocker",
+            "color": "#2496ED"
+          },
+          {
+            "name": "Linux",
+            "icon": "FaLinux",
+            "color": "#FCC624"
+          },
+          {
+            "name": "Nginx",
+            "icon": "SiNginx",
+            "color": "#009639"
+          },
+          {
+            "name": "Git",
+            "icon": "FaGitAlt",
+            "color": "#F05032"
+          },
+          {
+            "name": "GitHub",
+            "icon": "FaGithub",
+            "color": "text-slate-900 dark:text-white"
+          },
+          {
+            "name": "CI/CD",
+            "icon": "BiGitMerge",
+            "color": "text-blue-400"
+          },
+          {
+            "name": "GitHub Actions",
+            "icon": "SiGithubactions",
+            "color": "#2088FF"
+          }
+        ]
+      },
+      {
+        "title": "AI & Emerging Tech",
+        "icon": "Bot",
+        "iconColor": "text-fuchsia-500",
+        "accent": "from-fuchsia-500/15 to-purple-500/10",
+        "border": "border-fuchsia-500/30 dark:border-fuchsia-500/25",
+        "skills": [
+          {
+            "name": "LLM Applications",
+            "icon": "FaRobot",
+            "color": "text-fuchsia-400"
+          },
+          {
+            "name": "AI Agents",
+            "icon": "FaRobot",
+            "color": "text-purple-400"
+          },
+          {
+            "name": "Generative AI",
+            "icon": "TbSparkles",
+            "color": "text-pink-400"
+          },
+          {
+            "name": "AI API Integration",
+            "icon": "TbApi",
+            "color": "text-violet-400"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "roles": [
+      {
+        "period": "2023 – June 2026",
+        "role": "Software Engineering Lead",
+        "company": "University Software Project Team",
+        "location": "Dhaka, Bangladesh",
+        "badge": "Leadership Role",
+        "type": "past",
+        "responsibilities": [
+          "Led university software engineering teams across multiple projects, driving system architecture, development, code reviews, Git workflows, and technical delivery.",
+          "Designed and developed scalable full-stack and backend applications using Java, TypeScript, JavaScript, Python, Node.js, NestJS, Spring Boot, Django, FastAPI, and Next.js.",
+          "Built real-world systems featuring RESTful APIs, authentication, role-based access control, database architecture, caching, real-time communication, and cloud deployment.",
+          "Applied Data Structures & Algorithms, Object-Oriented Programming, clean architecture, design patterns, and system design principles to build maintainable and high-performance software.",
+          "Mentored team members, coordinated technical responsibilities, reviewed code, and maintained collaborative development workflows across multiple concurrent projects."
+        ],
+        "tech": [
+          "Java",
+          "TypeScript",
+          "Python",
+          "Node.js",
+          "NestJS",
+          "Spring Boot",
+          "Next.js",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "Docker",
+          "Git"
+        ]
+      },
+      {
+        "period": "Ongoing",
+        "role": "Software Engineer",
+        "company": "Open Source & Independent Projects",
+        "location": "GitHub",
+        "badge": "Engineering Experience",
+        "type": "current",
+        "responsibilities": [
+          "Built and maintained multiple full-stack and backend projects focused on scalable APIs, authentication, databases, distributed systems, and production-oriented software architecture.",
+          "Developed backend services with emphasis on performance, security, maintainability, clean architecture, and reliable API design.",
+          "Contributed to GitHub projects through pull requests, issue resolution, documentation, code improvements, and collaborative software development.",
+          "Implemented authentication and authorization, database optimization, caching, asynchronous processing, testing, CI/CD workflows, and cloud deployment across independent projects.",
+          "Worked with multiple backend ecosystems to understand architectural patterns, scalability trade-offs, performance optimization, and modern software engineering practices."
+        ],
+        "tech": [
+          "Java",
+          "Spring Boot",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "Python",
+          "Django",
+          "FastAPI",
+          "Go",
+          "Laravel",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Prisma",
+          "Docker",
+          "GitHub"
+        ]
+      },
+      {
+        "period": "Ongoing",
+        "role": "Hackathon & Competitive Programming Participant",
+        "company": "Technical Competitions",
+        "badge": "Problem Solving",
+        "type": "current",
+        "responsibilities": [
+          "Participated in multiple hackathons and programming competitions, solving algorithmic and software engineering problems under competitive time constraints.",
+          "Developed rapid prototypes and end-to-end solutions involving web applications, backend APIs, databases, and AI-powered systems.",
+          "Strengthened problem-solving skills through extensive practice with Data Structures & Algorithms, complexity analysis, optimization, and competitive programming.",
+          "Collaborated with teammates to design solutions, divide technical responsibilities, debug implementations, and deliver functional software within limited timeframes.",
+          "Applied software engineering, system design, and algorithmic thinking to transform real-world problems into practical technical solutions."
+        ],
+        "tech": [
+          "Java",
+          "C++",
+          "Data Structures & Algorithms",
+          "Problem Solving",
+          "System Design",
+          "Backend Engineering",
+          "Full-Stack Development",
+          "AI/ML",
+          "Python",
+          "JavaScript",
+          "TypeScript"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "number": "01",
+      "title": "CloudLedger — Financial Ledger & Double-Entry Platform",
+      "description": "Cloud financial management application supporting double-entry bookkeeping, real-time transaction ledgers, analytics dashboards, and invoice processing.",
+      "tech": [
+        "Next.js 16",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vercel"
+      ],
+      "github": "https://github.com/armanrakib123",
+      "live": null,
+      "isPrivate": false,
+      "featured": true,
+      "gradient": "from-cyan-500/15 via-blue-500/10 to-transparent",
+      "accentBorder": "border-cyan-500/35 dark:border-cyan-400/30 shadow-[0_0_20px_rgba(6,182,212,0.12)]",
+      "tagColor": "text-cyan-600 dark:text-cyan-400 border-cyan-500/30 bg-cyan-500/10"
+    },
+    {
+      "number": "02",
+      "title": "WorkPilot-AI — AI Workspace & Task Automation System",
+      "description": "AI-powered workspace platform automating workflow delegation, task scheduling, intelligent prompt routing, and developer team productivity telemetry.",
+      "tech": [
+        "TypeScript",
+        "Next.js",
+        "AI Agents",
+        "Tailwind CSS",
+        "Node.js"
+      ],
+      "github": "https://github.com/armanrakib123/",
+      "live": "",
+      "isPrivate": true,
+      "featured": true,
+      "gradient": "from-purple-500/15 via-violet-500/10 to-transparent",
+      "accentBorder": "border-purple-500/35 dark:border-purple-400/30 shadow-[0_0_20px_rgba(168,85,247,0.12)]",
+      "tagColor": "text-purple-600 dark:text-purple-400 border-purple-500/30 bg-purple-500/10"
+    },
+    {
+      "number": "03",
+      "title": "OpenConnect — API Gateway & Event Gateway",
+      "description": "High-performance event-driven API gateway and messaging distribution service engineered for high-throughput multi-service connectivity, webhook routing, and secure real-time data sync.",
+      "tech": [
+        "JavaScript",
+        "Python",
+        "HTML5",
+        "CSS3",
+        "Dockerfile",
+        "Render"
+      ],
+      "github": "https://github.com/armanrakib123/OpenConnect",
+      "live": "",
+      "isPrivate": true,
+      "featured": true,
+      "gradient": "from-emerald-500/15 via-teal-500/10 to-transparent",
+      "accentBorder": "border-emerald-500/35 dark:border-emerald-400/30 shadow-[0_0_20px_rgba(16,185,129,0.12)]",
+      "tagColor": "text-emerald-600 dark:text-emerald-400 border-emerald-500/30 bg-emerald-500/10"
+    },
+    {
+      "number": "04",
+      "title": "Developer Portfolio — Interactive Telemetry Portal",
+      "description": "State-of-the-art interactive portfolio built with Next.js 16, Framer Motion, MongoDB telemetry, Nodemailer autoresponders, and Google Gemini / Groq AI assistants.",
+      "tech": [
+        "Next.js 16",
+        "TypeScript",
+        "MongoDB",
+        "Framer Motion",
+        "Nodemailer"
+      ],
+      "github": "https://github.com/armanrakib123/My-Portfulio",
+      "live": null,
+      "isPrivate": false,
+      "featured": false,
+      "gradient": "from-blue-500/15 via-indigo-500/10 to-transparent",
+      "accentBorder": "border-blue-500/35 dark:border-blue-400/30 shadow-[0_0_20px_rgba(59,130,246,0.12)]",
+      "tagColor": "text-blue-600 dark:text-blue-400 border-blue-500/30 bg-blue-500/10"
+    },
+    {
+      "number": "05",
+      "title": "Music Library — Digital Audio Management",
+      "description": "Full-stack music management application designed to organize audio tracks, custom playlists, artists, and album metadata with dynamic search.",
+      "tech": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "CSS3",
+        "HTML5"
+      ],
+      "github": "https://github.com/armanrakib123/music_library",
+      "live": null,
+      "isPrivate": false,
+      "featured": false,
+      "gradient": "from-violet-500/15 via-purple-500/10 to-transparent",
+      "accentBorder": "border-violet-500/35 dark:border-violet-400/30 shadow-[0_0_20px_rgba(139,92,246,0.12)]",
+      "tagColor": "text-violet-600 dark:text-violet-400 border-violet-500/30 bg-violet-500/10"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Science & Engineering (CSE)",
+      "field": "Computer Science & Engineering",
+      "school": "Bangladesh University of Business and Technology (BUBT) , Dhaka, Bangladesh",
+      "gradient": "from-purple-500/15 to-violet-500/10",
+      "iconBg": "bg-purple-100 dark:bg-purple-500/15",
+      "iconColor": "text-purple-600 dark:text-purple-400",
+      "border": "border-purple-400/25 dark:border-purple-500/20"
+    },
+    {
+      "title": "Higher Secondary Education",
+      "field": "Science",
+      "school": "Mirpur University College, Dhaka, Bangladesh",
+      "gradient": "from-emerald-500/15 to-teal-500/10",
+      "iconBg": "bg-emerald-100 dark:bg-emerald-500/15",
+      "iconColor": "text-emerald-600 dark:text-emerald-400",
+      "border": "border-emerald-400/25 dark:border-emerald-500/20"
+    }
+  ],
+  "contactOptions": {
+    "subjectOptions": [
+      "",
+      "Software Engineer & Backend Developer",
+      "Scalable System Design & Architecture",
+      "Backend & Distributed Systems",
+      "Full-Stack Application Development",
+      "Cloud Infrastructure & DevOps",
+      "Enterprise Software Engineering",
+      "AI Agents & LLM Integration",
+      "Algorithms & Problem Solving",
+      "Custom Subject (Specify Below)"
+    ],
+    "budgetRanges": [
+      {
+        "value": "<$1k",
+        "label": "< $1,000 (Consultation / Audit)"
+      },
+      {
+        "value": "$1k - $5k",
+        "label": "$1,000 - $5,000"
+      },
+      {
+        "value": "$5k - $15k",
+        "label": "$5,000 - $15,000"
+      },
+      {
+        "value": "$15k+",
+        "label": "$15,000+ (Full System / Enterprise)"
+      }
+    ]
+  },
+  "aiChat": {
+    "maxDailyChats": 10,
+    "maxDailyRefinements": 5,
+    "suggestedPrompts": [
+      "Tell me about Arman Rakib's experience",
+      "What projects has Arman Rakib built?",
+      "What is Arman Rakib's tech stack?",
+      "What are Arman Rakib's core engineering skills?"
+    ]
+  }
+}
